@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me\
+- 📫 How to reach me
     
   email:   ronald.erosa@sicpa.com  
   mobile:  (+60)1169940175  
