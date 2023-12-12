@@ -5,13 +5,14 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 How to reach me  
-     <!---
+  email:   ronald.erosa@sicpa.com  
+  mobile:  (+60)1169940175  
+<!---
      [Website](http://www.thecasualdev.net/)  
      [LinkedIn](https://www.linkedin.com/in/rondace)  
      [Twitter](https://twitter.com/the_casual_dev)
-     --->
-     email:   ronald.erosa@sicpa.com  
-     mobile:  (+60)1169940175
+--->  
+     
 
 <!---
 rerosa17/rerosa17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
