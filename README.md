@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me
+- 📫 How to reach me  
      <!---
      [Website](http://www.thecasualdev.net/)  
      [LinkedIn](https://www.linkedin.com/in/rondace)  
